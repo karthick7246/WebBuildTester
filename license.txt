@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberconnect2 (Red)
+* source:	https://sketchfab.com/3d-models/cyberconnect2-red-0d979142ed5a47c6b5732e1d1a8f61d6
+* author:	Asdfmane (https://sketchfab.com/Asdfmane)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberconnect2 (Red)" (https://sketchfab.com/3d-models/cyberconnect2-red-0d979142ed5a47c6b5732e1d1a8f61d6) by Asdfmane (https://sketchfab.com/Asdfmane) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
